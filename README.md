@@ -8,7 +8,7 @@ Skills: NODE JS / REACT JS / JAVA / SPRING BOOT
 - 🌱 I’m currently learning Socket.io 
 - 🤔 I’m looking for help with Dynamic Programming 
 - 📫 How to reach me: harsh1059.cse18@chitkara.edu.in 
-- 😄 Pronouns: You never want to fail because you did not try enough.-Arnold Schwarzenegger💪 
+- 😄 Favorite Quote: You never want to fail because you did not try enough.-Arnold Schwarzenegger💪 
 - ⚡ Fun fact: I love WeightLifting. 
 
 
