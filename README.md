@@ -4,7 +4,7 @@
 
 Skills: NODE JS / REACT JS / JAVA / SPRING BOOT
 
-- 🔭 I’m currently working on Problem Solving 
+- 🔭 I’m currently improving my problem solving skills.  
 - 🌱 I’m currently learning Socket.io 
 - 🤔 I’m looking for help with Dynamic Programming 
 - 📫 How to reach me: harsh1059.cse18@chitkara.edu.in 
