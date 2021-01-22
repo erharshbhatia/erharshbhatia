@@ -1,6 +1,6 @@
 ### my name is Harsh
 #### I am a learner, web app developer, aspiring bodybuilder, I have keen interest in deep learning, cooking, reading about human anatomy physiology and biomechanics of weightlifting exercises.
-![I am a learner, web app developer, aspiring bodybuilder, I have keen interest in deep learning, cooking, reading about human anatomy physiology and biomechanics of weightlifting exercises.]
+
 
 Skills: NODE JS / REACT / JS / HTML / CSS / JAVA / SPRING BOOT
 
