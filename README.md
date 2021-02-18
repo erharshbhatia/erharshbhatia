@@ -2,7 +2,7 @@
 #### I am a learner, web app developer, aspiring bodybuilder, I have keen interest in deep learning, cooking, reading about human anatomy physiology and biomechanics of weightlifting exercises.
 
 
-Skills: NODE JS / REACT JS / JAVA / SPRING BOOT
+Skills: NODE JS / REACT JS / JAVA 
 
 - 🔭 I’m currently improving my problem solving skills.  
 - 🌱 I’m currently learning Socket.io 
