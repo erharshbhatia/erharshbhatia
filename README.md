@@ -5,9 +5,7 @@
 Skills: NODE JS / REACT JS / JAVA 
 
 - 🔭 I’m currently woring as an SDET intern at MakeMyTrip.
-- 🌱 I’m currently learning Socket.io 
-- 🤔 I’m looking for help with Dynamic Programming 
-- 📫 How to reach me: harsh1059.cse18@chitkara.edu.in 
+- 📫 How to reach me: harsh101.bhatia@gmail.com
 - 😄 Favorite Quote: You never want to fail because you did not try hard enough.-Arnold Schwarzenegger💪 
 - ⚡ Fun fact: I love WeightLifting. 
 
