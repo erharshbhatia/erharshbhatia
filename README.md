@@ -4,7 +4,7 @@
 
 Skills: NODE JS / REACT JS / JAVA 
 
-- 🔭 I’m currently improving my problem solving skills.  
+- 🔭 I’m currently woring as an SDET intern at MakeMyTrip.
 - 🌱 I’m currently learning Socket.io 
 - 🤔 I’m looking for help with Dynamic Programming 
 - 📫 How to reach me: harsh1059.cse18@chitkara.edu.in 
